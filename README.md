@@ -25,3 +25,36 @@ Gestione dei Resi:
 Calcolare le vendite nette
 
 Fornire una rappresentazione più accurata e realistica delle performance complessive
+
+
+------------------------------------------------------------------------------------------------------------------
+
+Project Objective
+
+This project aims to create an interactive report designed to support TechMarket managers in analyzing and monitoring sales performance.
+
+
+
+ Key Features
+
+The report allows users to:
+
+View monthly sales, taking into account discounts, units sold, and pricing.
+
+Analyze sales by city to identify trends and regional differences.
+
+Monitor sales performance for each product, comparing volumes and profitability.
+
+Get a complete overview of data for each store, including key indicators and performance metrics.
+
+
+
+
+Return Management
+
+
+A dedicated page for returns is also included, allowing users to:
+
+Calculate net sales
+
+Provide a more accurate and realistic view of overall performance
